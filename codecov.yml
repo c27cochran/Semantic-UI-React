@@ -1,0 +1,4 @@
+coverage:
+  ignore:
+    - src/factories.js
+    - src/lib/*
